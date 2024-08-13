@@ -2,6 +2,19 @@
 
 In this DataCamp career track, I'm immersing myself in essential data engineering concepts, mastering ETL/ELT workflows, and working with relational databases like PostgreSQL. I'm honing my SQL skills for querying, joining tables, and utilizing advanced techniques like subqueries and aggregation. The track also delves into database design principles, including star and snowflake schemas, and normalization, preparing me to handle tasks like table creation and data consistency. Additionally, I'm learning to install and configure PostgreSQL, manage users, and explore data warehouse technologies like Snowflake, a leading cloud solution for data engineering.
 
+## Table of Contents
+
+- [Understanding Data Engineering](#understanding-data-engineering)
+- [Introduction to SQL](#introduction-to-sql)
+- [Intermediate SQL](#intermediate-sql)
+- [Joining Data in SQL](#joining-data-in-sql)
+- [Project: Analyzing Students' Mental Health](#project-analyzing-students-mental-health)
+- [Introduction to Relational Databases in SQL](#introduction-to-relational-databases-in-sql)
+- [Database Design](#database-design)
+- [Data Warehousing Concepts](#data-warehousing-concepts)
+- [Introduction to Snowflake](#introduction-to-snowflake)
+
+
 ## Understanding Data Engineering
 
 ### 1. What is data engineering?
@@ -113,6 +126,74 @@ Use your data manipulation skills to explore the data from a study on the mental
 - Model more complex relationships
 - Referential integrity
 - Roundup
+
+## Database Design
+
+### 1. Processing, Storing and Organizing Data
+- OLTP and OLAP
+- Storing Data
+- Database Design
+
+### 2. Database Schemas and Normalization
+- Star and Snowflake schema
+- Normalized and denormalized databases
+- Normal forms
+
+### 3. Database Views
+- Database views
+- Managing views
+- Materilized view
+
+### 4. Database Management 
+- Database roles and access control
+- Table partitioning 
+- Data integration
+- Picking a Database Managment System(DBMS)
+
+## Data Warehousing Concepts
+
+### 1. Data Warehouse Basics
+- What is data warehouse?
+- What is the difference between data warehouse and data lake?
+- Data warehouses support organizational analysis
+
+### 2. Warehouse Architecture and Properties
+- What are the different layers of data warehouse?
+- The presentation layer
+- Data warehouse architectures
+- OLAP and OLTP systems
+
+### 3. Data Warehouse Data Modeling
+- Data warehouse data modeling
+- Kimballs four step process
+- Slowly changing dimentions
+- Row vs. column data store
+
+### 4. Implementation and Data Prep
+- ETL and ELT
+- Data cleaning
+- On premise and cloud data warehouse
+- Data warehouse design example
+- Wrap-up
+
+## Introduction to Snowflake
+
+### 1. Introduction to Snowflake: Architecture. Competition, and SnowflakeSQL
+- What is Snowflake?
+- Snowflake Architecture
+- Snowflake competitors and why use Snowflake
+
+### 2. Snowflake SQL and key concepts
+- Connecting to Snowflake and DDL commands
+- Snowflake database structures and DML
+- Snowflake data type and data type conversion
+- Functions, storing and grouping
+
+### 3. Advance Snowflake SQL Cencepts
+- Joining in Snowflake
+- Subquerying and Common Table Expressions
+- Snowflake Query Optimization
+- Handling semi-structed data
 
 
 
