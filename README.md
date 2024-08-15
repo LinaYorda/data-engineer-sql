@@ -13,6 +13,7 @@ In this DataCamp career track, I'm immersing myself in essential data engineerin
 - [Database Design](#database-design)
 - [Data Warehousing Concepts](#data-warehousing-concepts)
 - [Introduction to Snowflake](#introduction-to-snowflake)
+- [Understanding Data Visualization](#Understanding-data-visualization)
 
 
 ## Understanding Data Engineering
@@ -195,6 +196,35 @@ Use your data manipulation skills to explore the data from a study on the mental
 - Snowflake Query Optimization
 - Handling semi-structed data
 
+## Understanding Data Visualization
+
+### 1. Visualizing distributions
+- A plot tells a thousands words
+- Histograms
+- Box plots
+
+### 2. Visualizing two variables
+- Scatter plots
+- Line plots
+- Bar plots
+- Dot plots
+
+### 3. The colour and the shape
+- Higher dimentions
+- Using color
+- Plotting many variables at once
+
+### 4. 99 problems but a plot aint one of them 
+- Polar coordinates
+- Axes of evil
+- Sensory overload
 
 
+#### Project : Explorinf London's Travel Network
+
+How do Londoners get around? Transport for London (TfL) is a vast public transport network that allows London's residents to efficiently travel around the UK's capital, to the tune of over 1.5 million journeys per day!
+
+In this introductory project, you will work with a Snowflake, Amazon Redshift, Google BigQuery, or Databricks database containing data on journeys and transport types in London between 2010 and 2022. You will write SQL queries to find the most popular transport methods, examine when the London cable car (which connects London's Royal Docks, where the Mayor's office is located, to Greenwich Peninsula, home of the O2 arena) was particularly busy, and identify rare periods when the Underground (also known as "the tube" to locals) was less busy.
+
+[Link to the project](/Exploring-Londons-Travel-Network)
 
